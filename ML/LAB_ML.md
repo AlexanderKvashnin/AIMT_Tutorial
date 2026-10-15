@@ -1331,5 +1331,3 @@ This tutorial covers the full cycle of working with data in materials science:
 8. ✅ **Full workflow** — from API to final comparison
 
 **Key takeaway:** in materials science, ML does not replace physics — it complements it. A good model is one that generalizes to new materials, not one that memorizes training data.
-
-Happy researching! 🚀
